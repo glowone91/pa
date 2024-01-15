@@ -1,0 +1,30 @@
+total minutes outputs = 
+Totalminutes 1: -20
+Totalminutes 2: 1805
+Totalminutes 3: 1000
+
+euro conversion outputs = 
+Euro conversion 1: 10.950199000000001
+Euro conversion 2: 4959.3451271
+
+
+(These are the outputs I got through the run button,
+I know a different output is expected here but every time i use the ./run DesignRecipesExamples 
+command I get the following output: 
+glowone@Manis-Laptop cse11-pa1-starter-main % ./run DesignRecipeExamples 
+WARNING: A Java agent has been loaded dynamically (/var/folders/wx/z08vwsbx6hv8gxqcvf54y0y40000gn/T/byteBuddyAgent1597653784284983870.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+Tester Library v.3.0
+-----------------------------------
+Tests defined in the class: DesignRecipeExamples:
+---------------------------
+DesignRecipeExamples:
+---------------
+new DesignRecipeExamples:1()
+---------------
+No test methods found.
+
+im not sure how to fix it, if i could get feedback on it before the deadline is over 
+to fix it id appreciate it) 

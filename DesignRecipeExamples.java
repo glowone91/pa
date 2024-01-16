@@ -1,6 +1,6 @@
 import tester.*;
 
-public class DesignRecipesExamples {
+    class DesignRecipesExamples {
 
     // Problem 1: Calculate the volume of a cuboid
     int volume(int length, int width, int height){
@@ -41,4 +41,3 @@ public class DesignRecipesExamples {
     int totalminutes2 = this.totalminutes(30, 5); // expected 1805
     int totalminutes3 = this.totalminutes(0, 1000); // expected 1000
 }
-

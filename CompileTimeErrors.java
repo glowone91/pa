@@ -13,5 +13,5 @@ class CompileTimeErrors{
     }
   
     double answer1 = this.rightTriangleArea(3, 5); // expected 7.5
-    int answer2 = this.squareNumber(5);
+    int answer2 = this.squareNumber(5); // expected 25
  } // expected 25
